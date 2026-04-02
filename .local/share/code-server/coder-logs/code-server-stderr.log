@@ -1,0 +1,8 @@
+[14:06:50] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot autolaunch D-Bus without X11 $DISPLAY
+[14:10:12] Failed to install extension. ms-python.debugpy
+[14:10:12] Incompatible: Can't install 'ms-python.debugpy' extension because it is not compatible with the current version of code-server (version 1.76.1).
+    at H.G (/storage/pace-apps/manual/packages/code-server/4.11.0/lib/code-server-4.11.0/lib/vscode/out/vs/server/node/server.main.js:139:32208)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async H.installFromGallery (/storage/pace-apps/manual/packages/code-server/4.11.0/lib/code-server-4.11.0/lib/vscode/out/vs/server/node/server.main.js:139:23848) {
+  code: 'Incompatible'
+}

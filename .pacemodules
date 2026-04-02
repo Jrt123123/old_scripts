@@ -1,0 +1,10 @@
+#
+# Each module included in this file will be loaded automatically at login
+# Please make sure the modules you are loading do not have conflicts and
+# unmet dependencies.
+#
+# Contact pace-support@oit.gatech.edu if you have questions.
+#
+# E.g.
+# module gcc
+# module load mvapich2/2.1

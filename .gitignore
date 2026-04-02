@@ -1,0 +1,94 @@
+# ===== Python =====
+
+__pycache__/
+
+*.pyc
+
+
+.vscode/
+# ===== Checkpoints =====
+
+*.pt
+
+*.ckpt
+
+*.pth
+
+# ===== Data =====
+
+*.h5
+
+*.npy
+
+*.npz
+
+*.zst
+
+*.pkl
+# ===== Logs =====
+
+*.out
+
+logs/
+
+
+
+# ===== Experiment outputs =====
+
+runs/
+
+outputs/
+
+results/
+
+wandb/
+
+Franca/
+
+conda_envs/
+
+conda_envs_scratch/
+
+Autoencoder/
+
+autoencoder/
+
+DINO_v2_unicycle_patch_384d/
+
+r-gchou3-0/
+
+scratch/
+
+some_code/
+
+ondemand/
+
+eval_out/
+
+
+
+Code_for_invariant_bisimilarity/
+
+
+
+
+
+# ===== Cache =====
+
+.cache/
+
+*.cache
+
+*_cache/
+
+# ===== Conda / env =====
+
+env/
+
+.conda/
+
+SCRATCH.TO.BE.DELETED
+
+# ===== OS files =====
+
+.DS_Store
