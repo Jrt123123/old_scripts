@@ -92,3 +92,6 @@ SCRATCH.TO.BE.DELETED
 # ===== OS files =====
 
 .DS_Store
+
+
+/temporal-straightening/
